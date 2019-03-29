@@ -1,0 +1,32 @@
+Specflow demo
+
+情境(Jira需求):
+顯示訂單清單。
+
+架構:前後端分離架構(angularjs + webapi)
+拆分需求:
+前端:datagrid資料呈現
+後端:回傳訂單所有資訊
+
+實作:
+1.建立專案(.net framework, Web API)
+2.建立測試專案
+	2-1.加入情境
+	2-2.Feature填入Jira需求
+	2-3.安裝specrun.specflow
+	2-4.產生步驟程式碼
+	2-5.加入專案參考
+	2-6.撰寫測試邏輯
+	2-7.撰寫邏輯(略)
+	2-8.新增範例2,變數demo
+	2-9.中文(https://docs.cucumber.io/gherkin/reference/)
+	2-10. overview 
+		2-10-1. 對應 AAA 單元測試、功能測試
+		2-10-2. TDD/BDD/ATDD/SBE
+		
+---------------------------------------------------------
+Class Designer
+Calculate Code Metrics
+
+selenium IDE
+Katalon Recorder

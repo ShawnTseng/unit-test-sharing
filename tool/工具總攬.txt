@@ -1,0 +1,7 @@
+ATDD/BDD/SBE:        Specflow
+Unit Test:           xUnit
+Isolation Framework: Nsubstitute
+UML:                 Class Designer
+code snippet:        AAA
+Code Generator:      Unit_Test_Boilerplate_Generator_v1.9.17
+
